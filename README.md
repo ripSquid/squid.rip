@@ -1,0 +1,2 @@
+# squid.rip
+ Personal Website

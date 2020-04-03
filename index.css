@@ -1,0 +1,88 @@
+html {
+    margin: 0;
+    padding: 0;
+    background: url('glitchart.jpg');
+    background-position-x: 50%;
+    background-size: 100%;
+}
+
+body {
+    display: flex;
+    justify-content: space-around;
+}
+
+#info {
+    /* size */
+    width: 60%;
+    margin: 1%;
+    padding: 25px;
+    /* color styling */
+    background: rgba(0, 0, 0, 0.4);
+    color: white;
+
+    /* border styling */
+    border-radius: 25px;
+    
+    /* text styling */
+    font-family: 'Space Mono', monospace;
+
+    /* flex */
+    display: flex;
+    align-items: center;
+    flex-direction: column; 
+}
+
+#info h1 {
+    margin: 0;
+    padding: 0;
+    text-decoration: underline;
+}
+
+#info h2 {
+    text-decoration: underline;
+}
+
+#info ul {
+    display: inline-block;
+    position: relative;
+	list-style: none;
+	margin-left: 0;
+	padding-left: 1.2em;
+}
+
+#info ul li:before {
+	content: "*";
+	position: absolute;
+	left: 0;
+}
+
+#socials ul {
+    position: static;
+	list-style: none;
+	margin-left: 0;
+	padding-left: 0;
+}
+
+#socials ul li:before {
+    content: "";
+	position: static;
+}
+
+img {
+    filter: invert();
+    width: 64px; 
+    height: 64px;
+}
+
+/* desktop specific styling */
+@media screen and (min-width: 480px) {
+    #info {
+        /* size */
+        width: 33%;
+        padding: 25px;
+        
+    }
+    #socials ul li {
+        display: inline;
+    }
+}
