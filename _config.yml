@@ -1,2 +1,3 @@
 url: https://squid.rip
 enforce_ssl: squid.rip
+include: [".well-known"]
