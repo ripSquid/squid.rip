@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/ripsquid
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://squid.rip
+  * I am ripsquid (https://keybase.io/ripsquid) on keybase.
+  * I have a public key with fingerprint 73CB FC00 F51C 4501 39C2  3EC0 2E51 A409 5D5A 640A
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010163dd067b01957f221322ec01ff78aa0f6f4554b5ca8fa0c9be86b699f9dc77c20a",
+      "fingerprint": "73cbfc00f51c450139c23ec02e51a4095d5a640a",
+      "host": "keybase.io",
+      "key_id": "2e51a4095d5a640a",
+      "kid": "010163dd067b01957f221322ec01ff78aa0f6f4554b5ca8fa0c9be86b699f9dc77c20a",
+      "uid": "79fa76d22b8a556e521fd9e8d7992b19",
+      "username": "ripsquid"
+    },
+    "service": {
+      "hostname": "squid.rip",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1586004262,
+  "expire_in": 157680000,
+  "prev": "0c29c81b799d499ac011beb22d69b9a32641cfa908ef766cc579f5018e54a07e",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIlAnicrVJbSBVBGD6n0uxEEVgQURYL1kOmM3N2Z3cOpVkWQmQXujx0OczOztqa
+7Z6b59g5SFfIDNIyCbpKEV0Iy0rMMFKxKAsrC3qIsod60/CpiEybPdRbj83LMP98
+3zff98/fO22ix+d9XZJTdzu+tc/7vPtUlWdn7YGFKUl3jL1SICXt5umNVxo8Ggvu
+tgwpIAEIIPYbBsCqDiBRVBMh6EeIMwBNU9UoBSY2ZUWRdYVRzaSAEZ1rWMeEmMRg
+qsoQoFKeZFp2OY+EIpYdE7Kqn+kmA8BUIJMVAP2EIb/QRFyBVAZEMRSK5TRxlxN1
+GcKcTqM833JETRyCaXv/wP9n31VpOZWYVMUGQrpGFQVzBUHTIFwzVEKQDokLjPKI
+TfdwgY5YoWjYJdbkSaIatxh3G+sm+YNIX+cLnCCGIk7MYU6lKO+KxULRgEuL7Q25
+uATXg38UgrplG6KJghHnkajl2FIACiSLWa4kVDQMgIwwypN4dciK8KDlIhQVa0As
+9x0edzvDEGEa1IVzQyaEioZAnesIGZjohPoRliEzKQEaN1WMGVNEePFFGldkClQu
+uZnCtiMFNGGTlrtprHKbxqoiXKrp6do+yeP1eTIzJrjD5fFNmfF35OCJyePbVifv
+Fl22L16ffXO6lHi6uPTtnKaP+tecVc9WvKu4dysZT+IXZwYHfcs3jjweO7p/+6Jw
+VwdcdnzgdMHMtcOHWj+tqS083tZwIvyh5cnaq3jP+NL5xU37Gk8VT/+ZnX1wx7eM
+jmNzZ+W3F4F6+377SG9lv/2mwDvUnL0ucemH/OpV84P6pqzxwivO7FTu+5b+cHLj
+upPnM8vu+Id+pHB1oP7XYEbWgnjRzP11XQVbOjNLihdVZA97e5bk1Dy81jjW5pub
+iI5+ab1w7tbmG28HLz9qz0RTS+tHjwTLtm54qXZuqFr/fWLrygHtcF9pLit+2bBw
+04t53aTjWnXZ2eufbzZsakk2/gZJhT5U
+=zoBk
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ripsquid
+
+==================================================================
