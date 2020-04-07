@@ -73,7 +73,16 @@ img {
     width: 64px; 
     height: 64px;
 }
-
+/* unvisited link */
+a:link {
+    color:white;
+}
+  
+  /* visited link */
+a:visited {
+    color: white;
+}
+  
 /* desktop specific styling */
 @media screen and (min-width: 480px) {
     #info {
