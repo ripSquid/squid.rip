@@ -1,7 +1,7 @@
 html {
     margin: 0;
     padding: 0;
-    background: url('glitchart.jpg');
+    background: url('/images/glitchart.jpg');
     background-position-x: 50%;
     background-size: 100%;
 }
